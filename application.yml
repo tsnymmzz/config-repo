@@ -10,4 +10,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 wang:
-  name: "小老弟111"
+  name: "小老弟222"
